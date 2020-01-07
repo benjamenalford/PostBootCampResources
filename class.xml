@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+  <channel>
+    <title>KU-EDW-DATA-PT-07</title>
+    <link>https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=74e9a4d8-62d7-4b0c-b62f-aa840181ab31</link>
+    <itunes:subtitle>Podcast feed for Panopto folder "KU-EDW-DATA-PT-07"</itunes:subtitle>
+    <image>
+      <url>https://codingbootcamp.hosted.panopto.com/Panopto/Services/FrameGrabber.svc/FrameRedirect?objectId=a1f3b3a2-25db-472d-bf0c-aa8401826608&amp;mode=Delivery&amp;random=0.736775983933721&amp;usePng=False</url>
+      <title>KU-EDW-DATA-PT-07</title>
+      <link>https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=74e9a4d8-62d7-4b0c-b62f-aa840181ab31</link>
+    </image>
+    <itunes:image href="https://codingbootcamp.hosted.panopto.com/Panopto/Services/FrameGrabber.svc/FrameRedirect?objectId=a1f3b3a2-25db-472d-bf0c-aa8401826608&amp;mode=Delivery&amp;random=0.736775983933721&amp;usePng=False" />
+    <itunes:category text="Education">
+      <itunes:category text="Higher Education" />
+    </itunes:category>
+    <item>
+      <title>1.1 Mon, Jul 8 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>1.1 Mon, Jul 8 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/a1f3b3a2-25db-472d-bf0c-aa8401826608.mp4?mediaTargetType=videoPodcast" length="176270158" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/a1f3b3a2-25db-472d-bf0c-aa8401826608.mp4</guid>
+      <pubDate>Mon, 08 Jul 2019 23:26:50 GMT</pubDate>
+      <itunes:duration>4850</itunes:duration>
+    </item>
+    <item>
+      <title>1.1 part 2 Mon, Jul 8 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>1.1 part 2 Mon, Jul 8 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/2feb96a9-ed59-4929-8cef-aa850011b0e9.mp4?mediaTargetType=videoPodcast" length="308354810" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/2feb96a9-ed59-4929-8cef-aa850011b0e9.mp4</guid>
+      <pubDate>Tue, 09 Jul 2019 01:04:24 GMT</pubDate>
+      <itunes:duration>5158</itunes:duration>
+    </item>
+    <item>
+      <title>1.2 Excel Wed, Jul 10 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>1.2 Excel Wed, Jul 10 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/e4e95865-41c9-41d6-b34f-aa86018357e6.mp4?mediaTargetType=videoPodcast" length="905901172" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/e4e95865-41c9-41d6-b34f-aa86018357e6.mp4</guid>
+      <pubDate>Wed, 10 Jul 2019 23:30:17 GMT</pubDate>
+      <itunes:duration>10769</itunes:duration>
+    </item>
+    <item>
+      <title>1.3 Sat, Jul 13 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>1.3 Sat, Jul 13 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/122dc565-902d-4412-b1a7-aa8900f70567.mp4?mediaTargetType=videoPodcast" length="1223024770" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/122dc565-902d-4412-b1a7-aa8900f70567.mp4</guid>
+      <pubDate>Sat, 13 Jul 2019 14:59:23 GMT</pubDate>
+      <itunes:duration>14670</itunes:duration>
+    </item>
+    <item>
+      <title>12.1 Mon, Jul 15 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>12.1 Mon, Jul 15 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/750db481-12f1-48b2-a0de-aa8b01836d30.mp4?mediaTargetType=videoPodcast" length="832097170" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/750db481-12f1-48b2-a0de-aa8b01836d30.mp4</guid>
+      <pubDate>Mon, 15 Jul 2019 23:30:35 GMT</pubDate>
+      <itunes:duration>10464</itunes:duration>
+    </item>
+    <item>
+      <title>2.2 Wed, Jul 17 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>2.2 Wed, Jul 17 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/07e4affa-0d14-4013-ba2e-aa8d018424e3.mp4?mediaTargetType=videoPodcast" length="888431830" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/07e4affa-0d14-4013-ba2e-aa8d018424e3.mp4</guid>
+      <pubDate>Wed, 17 Jul 2019 23:33:11 GMT</pubDate>
+      <itunes:duration>10972</itunes:duration>
+    </item>
+    <item>
+      <title>2.3 Sat, Jul 20 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>2.3 Sat, Jul 20 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/e5253e4e-9645-4dbd-80af-aa9000f845b8.mp4?mediaTargetType=videoPodcast" length="1232162720" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/e5253e4e-9645-4dbd-80af-aa9000f845b8.mp4</guid>
+      <pubDate>Sat, 20 Jul 2019 15:03:56 GMT</pubDate>
+      <itunes:duration>14593</itunes:duration>
+    </item>
+    <item>
+      <title>3.1 Mon, Jul 22 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>3.1 Mon, Jul 22 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/01898cc3-3372-48e3-9732-aa92018382e7.mp4?mediaTargetType=videoPodcast" length="833148753" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/01898cc3-3372-48e3-9732-aa92018382e7.mp4</guid>
+      <pubDate>Mon, 22 Jul 2019 23:30:53 GMT</pubDate>
+      <itunes:duration>10789</itunes:duration>
+    </item>
+    <item>
+      <title>3.2 Wed, Jul 24 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>3.2 Wed, Jul 24 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/835a8583-3dd2-44dc-9b86-aa9401838b26.mp4?mediaTargetType=videoPodcast" length="638471408" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/835a8583-3dd2-44dc-9b86-aa9401838b26.mp4</guid>
+      <pubDate>Wed, 24 Jul 2019 23:31:00 GMT</pubDate>
+      <itunes:duration>10710</itunes:duration>
+    </item>
+    <item>
+      <title>3.3 Sat, Jul 27 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>3.3 Sat, Jul 27 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/bb849c86-04e2-4f9c-96f9-aa9700f77e9c.mp4?mediaTargetType=videoPodcast" length="1120224522" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/bb849c86-04e2-4f9c-96f9-aa9700f77e9c.mp4</guid>
+      <pubDate>Sat, 27 Jul 2019 15:01:06 GMT</pubDate>
+      <itunes:duration>13724</itunes:duration>
+    </item>
+    <item>
+      <title>4.1 Mon, Jul 29 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>4.1 Mon, Jul 29 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/897c53a0-e9fb-4d21-9668-aa990183bb24.mp4?mediaTargetType=videoPodcast" length="844250432" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/897c53a0-e9fb-4d21-9668-aa990183bb24.mp4</guid>
+      <pubDate>Mon, 29 Jul 2019 23:31:41 GMT</pubDate>
+      <itunes:duration>10017</itunes:duration>
+    </item>
+    <item>
+      <title>Wednesday, July 31, 2019 at 5:17:17 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Wednesday, July 31, 2019 at 5:17:17 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/2a4510eb-7828-43e9-bb22-aa9b0182a905.mp4?mediaTargetType=videoPodcast" length="876557196" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/2a4510eb-7828-43e9-bb22-aa9b0182a905.mp4</guid>
+      <pubDate>Wed, 31 Jul 2019 23:27:46 GMT</pubDate>
+      <itunes:duration>11433</itunes:duration>
+    </item>
+    <item>
+      <title>4.3 Sat, Aug 3 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>4.3 Sat, Aug 3 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/e3330479-eb30-40b2-bbe2-aa9e00f77913.mp4?mediaTargetType=videoPodcast" length="1007511303" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/e3330479-eb30-40b2-bbe2-aa9e00f77913.mp4</guid>
+      <pubDate>Sat, 03 Aug 2019 15:00:51 GMT</pubDate>
+      <itunes:duration>11852</itunes:duration>
+    </item>
+    <item>
+      <title>5.1 Mon, Aug 5 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>5.1 Mon, Aug 5 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/ee68b46a-ab0f-4489-88fc-aaa00183f01d.mp4?mediaTargetType=videoPodcast" length="741008951" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/ee68b46a-ab0f-4489-88fc-aaa00183f01d.mp4</guid>
+      <pubDate>Mon, 05 Aug 2019 23:32:26 GMT</pubDate>
+      <itunes:duration>8709</itunes:duration>
+    </item>
+    <item>
+      <title>5.2 Wed, Aug 7 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>5.2 Wed, Aug 7 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/00df5221-9b34-429f-a190-aaa201834ac7.mp4?mediaTargetType=videoPodcast" length="835806885" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/00df5221-9b34-429f-a190-aaa201834ac7.mp4</guid>
+      <pubDate>Wed, 07 Aug 2019 23:30:05 GMT</pubDate>
+      <itunes:duration>9891</itunes:duration>
+    </item>
+    <item>
+      <title>5.3 Sat, Aug 10 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>5.3 Sat, Aug 10 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/f17b70f9-c0a0-4f5d-af88-aaa500f7cba3.mp4?mediaTargetType=videoPodcast" length="996487445" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/f17b70f9-c0a0-4f5d-af88-aaa500f7cba3.mp4</guid>
+      <pubDate>Sat, 10 Aug 2019 15:02:12 GMT</pubDate>
+      <itunes:duration>11709</itunes:duration>
+    </item>
+    <item>
+      <title>6.1 Mon, Aug 12 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>6.1 Mon, Aug 12 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/fcb7c2ac-25cb-48c2-a615-aaa701838b5f.mp4?mediaTargetType=videoPodcast" length="886552791" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/fcb7c2ac-25cb-48c2-a615-aaa701838b5f.mp4</guid>
+      <pubDate>Mon, 12 Aug 2019 23:31:00 GMT</pubDate>
+      <itunes:duration>10421</itunes:duration>
+    </item>
+    <item>
+      <title>6.2 Wed, Aug 14 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>6.2 Wed, Aug 14 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/f510c73a-4b48-4cdc-9d7b-aaa901835e03.mp4?mediaTargetType=videoPodcast" length="46568557" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/f510c73a-4b48-4cdc-9d7b-aaa901835e03.mp4</guid>
+      <pubDate>Wed, 14 Aug 2019 23:30:22 GMT</pubDate>
+      <itunes:duration>549</itunes:duration>
+    </item>
+    <item>
+      <title>6.2.2 Wed, Aug 14 2019 at 6:39 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>6.2.2 Wed, Aug 14 2019 at 6:39 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/1a6e8bcc-da4e-4a51-9e89-aaa90186017f.mp4?mediaTargetType=videoPodcast" length="3063869" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/1a6e8bcc-da4e-4a51-9e89-aaa90186017f.mp4</guid>
+      <pubDate>Wed, 14 Aug 2019 23:39:58 GMT</pubDate>
+      <itunes:duration>41</itunes:duration>
+    </item>
+    <item>
+      <title>6.2.3 Wed, Aug 14 2019 at 6:40 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>6.2.3 Wed, Aug 14 2019 at 6:40 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/ca70e0ee-cc79-483e-b276-aaa901865dce.mp4?mediaTargetType=videoPodcast" length="838761923" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/ca70e0ee-cc79-483e-b276-aaa901865dce.mp4</guid>
+      <pubDate>Wed, 14 Aug 2019 23:41:17 GMT</pubDate>
+      <itunes:duration>9852</itunes:duration>
+    </item>
+    <item>
+      <title>6.3 Sat, Aug 17 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>6.3 Sat, Aug 17 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/30298875-0a12-46a5-997c-aaac00f80a69.mp4?mediaTargetType=videoPodcast" length="1225215801" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/30298875-0a12-46a5-997c-aaac00f80a69.mp4</guid>
+      <pubDate>Sat, 17 Aug 2019 15:03:05 GMT</pubDate>
+      <itunes:duration>14388</itunes:duration>
+    </item>
+    <item>
+      <title>7.1 Monday Project 1 - Aug 19, 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>7.1 Monday Project 1 - Aug 19, 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/407e1275-984b-41a6-b88d-aaae0183f5b0.mp4?mediaTargetType=videoPodcast" length="672767710" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/407e1275-984b-41a6-b88d-aaae0183f5b0.mp4</guid>
+      <pubDate>Mon, 19 Aug 2019 23:32:30 GMT</pubDate>
+      <itunes:duration>8804</itunes:duration>
+    </item>
+    <item>
+      <title>9.1 SQL Sat, Sep 7 2019 at 9:41 AM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>9.1 SQL Sat, Sep 7 2019 at 9:41 AM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/4b75379d-0ea5-4305-866c-aac100f83059.mp4?mediaTargetType=videoPodcast" length="1108283486" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/4b75379d-0ea5-4305-866c-aac100f83059.mp4</guid>
+      <pubDate>Sat, 07 Sep 2019 15:03:36 GMT</pubDate>
+      <itunes:duration>13029</itunes:duration>
+    </item>
+    <item>
+      <title>9.2 SQL - Monday 9/9</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>9.2 SQL - Monday 9/9</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/10ad5951-6861-42ae-a37e-aac301832b15.mp4?mediaTargetType=videoPodcast" length="910726578" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/10ad5951-6861-42ae-a37e-aac301832b15.mp4</guid>
+      <pubDate>Mon, 09 Sep 2019 23:29:36 GMT</pubDate>
+      <itunes:duration>11241</itunes:duration>
+    </item>
+    <item>
+      <title>SQL 9.3 - Wednesday 9/11</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>SQL 9.3 - Wednesday 9/11</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/b48291a5-7861-48b9-9575-aac501832005.mp4?mediaTargetType=videoPodcast" length="884879191" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/b48291a5-7861-48b9-9575-aac501832005.mp4</guid>
+      <pubDate>Wed, 11 Sep 2019 23:29:27 GMT</pubDate>
+      <itunes:duration>11477</itunes:duration>
+    </item>
+    <item>
+      <title>Saturday, September 14, 2019 at 9:52:42 AM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Saturday, September 14, 2019 at 9:52:42 AM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/80d93520-08ee-4425-bf7f-aac800f7a751.mp4?mediaTargetType=videoPodcast" length="2528500" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/80d93520-08ee-4425-bf7f-aac800f7a751.mp4</guid>
+      <pubDate>Sat, 14 Sep 2019 15:01:35 GMT</pubDate>
+      <itunes:duration>13</itunes:duration>
+    </item>
+    <item>
+      <title>Saturday, September 14, 2019 at 10:01:55 AM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Saturday, September 14, 2019 at 10:01:55 AM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/a3d6153b-f352-431f-8b78-aac800f7c1fc.mp4?mediaTargetType=videoPodcast" length="533260067" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/a3d6153b-f352-431f-8b78-aac800f7c1fc.mp4</guid>
+      <pubDate>Sat, 14 Sep 2019 15:02:03 GMT</pubDate>
+      <itunes:duration>13936</itunes:duration>
+    </item>
+    <item>
+      <title>Monday, September 16, 2019 at 6:21:24 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Monday, September 16, 2019 at 6:21:24 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/777416c0-168f-4cbf-b86d-aaca0180f359.mp4?mediaTargetType=videoPodcast" length="449700589" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/777416c0-168f-4cbf-b86d-aaca0180f359.mp4</guid>
+      <pubDate>Mon, 16 Sep 2019 23:21:33 GMT</pubDate>
+      <itunes:duration>10880</itunes:duration>
+    </item>
+    <item>
+      <title>Wednesday, September 18, 2019 at 6:03:14 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Wednesday, September 18, 2019 at 6:03:14 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/5fd206bc-8b34-4118-a795-aacc01801570.mp4?mediaTargetType=videoPodcast" length="505855342" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/5fd206bc-8b34-4118-a795-aacc01801570.mp4</guid>
+      <pubDate>Wed, 18 Sep 2019 23:18:23 GMT</pubDate>
+      <itunes:duration>11641</itunes:duration>
+    </item>
+    <item>
+      <title>Saturday, September 21, 2019 at 9:19:41 AM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Saturday, September 21, 2019 at 9:19:41 AM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/6a0068f9-c190-420c-bf75-aacf00f71b87.mp4?mediaTargetType=videoPodcast" length="3851198" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/6a0068f9-c190-420c-bf75-aacf00f71b87.mp4</guid>
+      <pubDate>Sat, 21 Sep 2019 14:59:36 GMT</pubDate>
+      <itunes:duration>23</itunes:duration>
+    </item>
+    <item>
+      <title>Saturday, September 21, 2019 at 10:00:19 AM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Saturday, September 21, 2019 at 10:00:19 AM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/10797d21-d3ac-4b8a-a24f-aacf00f75508.mp4?mediaTargetType=videoPodcast" length="2608439" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/10797d21-d3ac-4b8a-a24f-aacf00f75508.mp4</guid>
+      <pubDate>Sat, 21 Sep 2019 15:00:30 GMT</pubDate>
+      <itunes:duration>13</itunes:duration>
+    </item>
+    <item>
+      <title>Saturday, September 21, 2019 at 10:00:56 AM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Saturday, September 21, 2019 at 10:00:56 AM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/946cdd0e-a69c-4eae-980d-aacf00f7a2a9.mp4?mediaTargetType=videoPodcast" length="232130" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/946cdd0e-a69c-4eae-980d-aacf00f7a2a9.mp4</guid>
+      <pubDate>Sat, 21 Sep 2019 15:01:36 GMT</pubDate>
+      <itunes:duration>2</itunes:duration>
+    </item>
+    <item>
+      <title>Saturday, September 21, 2019 at 10:01:52 AM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Saturday, September 21, 2019 at 10:01:52 AM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/228094d1-4395-4183-bb19-aacf00f7e907.mp4?mediaTargetType=videoPodcast" length="488020631" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/228094d1-4395-4183-bb19-aacf00f7e907.mp4</guid>
+      <pubDate>Sat, 21 Sep 2019 15:02:36 GMT</pubDate>
+      <itunes:duration>6800</itunes:duration>
+    </item>
+    <item>
+      <title>Saturday, September 21, 2019 at 11:56:08 AM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Saturday, September 21, 2019 at 11:56:08 AM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/45adf408-4038-4905-a49e-aacf011ac224.mp4?mediaTargetType=videoPodcast" length="368738054" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/45adf408-4038-4905-a49e-aacf011ac224.mp4</guid>
+      <pubDate>Sat, 21 Sep 2019 17:09:29 GMT</pubDate>
+      <itunes:duration>5421</itunes:duration>
+    </item>
+    <item>
+      <title>Monday, September 23, 2019 at 6:22:43 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Monday, September 23, 2019 at 6:22:43 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/5d903763-6171-40d5-9e52-aad10183e42f.mp4?mediaTargetType=videoPodcast" length="170249" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/5d903763-6171-40d5-9e52-aad10183e42f.mp4</guid>
+      <pubDate>Mon, 23 Sep 2019 23:32:15 GMT</pubDate>
+      <itunes:duration>1</itunes:duration>
+    </item>
+    <item>
+      <title>Monday, September 23, 2019 at 6:32:24 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Monday, September 23, 2019 at 6:32:24 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/3b58c17c-8361-4337-9b60-aad10183f4ec.mp4?mediaTargetType=videoPodcast" length="150836681" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/3b58c17c-8361-4337-9b60-aad10183f4ec.mp4</guid>
+      <pubDate>Mon, 23 Sep 2019 23:32:30 GMT</pubDate>
+      <itunes:duration>3513</itunes:duration>
+    </item>
+    <item>
+      <title>Monday, September 23, 2019 at 7:56:37 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Monday, September 23, 2019 at 7:56:37 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/dc40a526-edba-4632-a5d7-aad2000f9d28.mp4?mediaTargetType=videoPodcast" length="246137099" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/dc40a526-edba-4632-a5d7-aad2000f9d28.mp4</guid>
+      <pubDate>Tue, 24 Sep 2019 00:56:50 GMT</pubDate>
+      <itunes:duration>5613</itunes:duration>
+    </item>
+    <item>
+      <title>Saturday, September 28, 2019 at 9:42:48 AM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Saturday, September 28, 2019 at 9:42:48 AM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/75df14c4-0c45-4db6-b65d-aad600f95409.mp4?mediaTargetType=videoPodcast" length="556018031" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/75df14c4-0c45-4db6-b65d-aad600f95409.mp4</guid>
+      <pubDate>Sat, 28 Sep 2019 15:07:45 GMT</pubDate>
+      <itunes:duration>14733</itunes:duration>
+    </item>
+    <item>
+      <title>12.2 Mon, Sep 30 2019 at 6:31 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>12.2 Mon, Sep 30 2019 at 6:31 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/59f33c40-e2c4-4238-82c0-aad80183f65c.mp4?mediaTargetType=videoPodcast" length="758514187" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/59f33c40-e2c4-4238-82c0-aad80183f65c.mp4</guid>
+      <pubDate>Mon, 30 Sep 2019 23:32:32 GMT</pubDate>
+      <itunes:duration>8909</itunes:duration>
+    </item>
+    <item>
+      <title>12.3 Wed, Oct 2 2019 at 6:32 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>12.3 Wed, Oct 2 2019 at 6:32 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/49963986-2bd0-44c6-b9bc-aada018478d8.mp4?mediaTargetType=videoPodcast" length="741435485" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/49963986-2bd0-44c6-b9bc-aada018478d8.mp4</guid>
+      <pubDate>Wed, 02 Oct 2019 23:34:23 GMT</pubDate>
+      <itunes:duration>8699</itunes:duration>
+    </item>
+    <item>
+      <title>14.1 Sat, Oct 5 2019 at 9:44 AM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>14.1 Sat, Oct 5 2019 at 9:44 AM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/8b458c48-e429-4ab8-a7a0-aadd00fa0879.mp4?mediaTargetType=videoPodcast" length="2396264518" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/8b458c48-e429-4ab8-a7a0-aadd00fa0879.mp4</guid>
+      <pubDate>Sat, 05 Oct 2019 15:10:20 GMT</pubDate>
+      <itunes:duration>12547</itunes:duration>
+    </item>
+    <item>
+      <title>Extra Review Sat, Oct 5 2019 at 1:54 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Extra Review Sat, Oct 5 2019 at 1:54 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/0c695e49-ce96-49ca-bcf7-aadd01384a81.mp4?mediaTargetType=videoPodcast" length="1302227412" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/0c695e49-ce96-49ca-bcf7-aadd01384a81.mp4</guid>
+      <pubDate>Sat, 05 Oct 2019 18:57:01 GMT</pubDate>
+      <itunes:duration>6822</itunes:duration>
+    </item>
+    <item>
+      <title>14.2 JS Mon, Oct 7 2019 at 6:28 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>14.2 JS Mon, Oct 7 2019 at 6:28 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/1c6b6dd4-2b01-4990-862b-aadf01844251.mp4?mediaTargetType=videoPodcast" length="1914028191" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/1c6b6dd4-2b01-4990-862b-aadf01844251.mp4</guid>
+      <pubDate>Mon, 07 Oct 2019 23:33:36 GMT</pubDate>
+      <itunes:duration>10027</itunes:duration>
+    </item>
+    <item>
+      <title>14.3 Wed, Oct 9 2019 at 6:27 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>14.3 Wed, Oct 9 2019 at 6:27 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/a1b175d4-2095-481c-b0ca-aae1018363ba.mp4?mediaTargetType=videoPodcast" length="2070978957" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/a1b175d4-2095-481c-b0ca-aae1018363ba.mp4</guid>
+      <pubDate>Wed, 09 Oct 2019 23:30:26 GMT</pubDate>
+      <itunes:duration>10849</itunes:duration>
+    </item>
+    <item>
+      <title>Monday, October 14, 2019 at 8:29:30 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Monday, October 14, 2019 at 8:29:30 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/92379ec6-c017-4aa2-a2ab-aae70018eb24.mp4?mediaTargetType=videoPodcast" length="62683525" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/92379ec6-c017-4aa2-a2ab-aae70018eb24.mp4</guid>
+      <pubDate>Tue, 15 Oct 2019 01:30:38 GMT</pubDate>
+      <itunes:duration>1306</itunes:duration>
+    </item>
+    <item>
+      <title>ETL Review Wed, Oct 16 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>ETL Review Wed, Oct 16 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/43308350-b0f4-48de-9f2b-aae900064ae4.mp4?mediaTargetType=videoPodcast" length="1320002769" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/43308350-b0f4-48de-9f2b-aae900064ae4.mp4</guid>
+      <pubDate>Thu, 17 Oct 2019 00:22:54 GMT</pubDate>
+      <itunes:duration>6919</itunes:duration>
+    </item>
+    <item>
+      <title>15.1 Sat, Oct 19 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>15.1 Sat, Oct 19 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/7c8d8aa9-7db8-47a6-bc6e-aaeb00f8ecc3.mp4?mediaTargetType=videoPodcast" length="2288704072" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/7c8d8aa9-7db8-47a6-bc6e-aaeb00f8ecc3.mp4</guid>
+      <pubDate>Sat, 19 Oct 2019 15:06:18 GMT</pubDate>
+      <itunes:duration>11984</itunes:duration>
+    </item>
+    <item>
+      <title>D3 Review</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>D3 Review</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/5e1827f9-b68e-4da7-89ec-aaeb0133e96d.mp4?mediaTargetType=videoPodcast" length="803130174" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/5e1827f9-b68e-4da7-89ec-aaeb0133e96d.mp4</guid>
+      <pubDate>Sat, 19 Oct 2019 18:41:04 GMT</pubDate>
+      <itunes:duration>4207</itunes:duration>
+    </item>
+    <item>
+      <title>15.2 Mon, Oct 21 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>15.2 Mon, Oct 21 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/6e2167c0-6d7c-4259-9eb1-aaed018381ac.mp4?mediaTargetType=videoPodcast" length="1856755431" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/6e2167c0-6d7c-4259-9eb1-aaed018381ac.mp4</guid>
+      <pubDate>Mon, 21 Oct 2019 23:30:52 GMT</pubDate>
+      <itunes:duration>9721</itunes:duration>
+    </item>
+    <item>
+      <title>15.3 Wed, Oct 23 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>15.3 Wed, Oct 23 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/23f0fd8b-8ecb-46e8-b71d-aaef018463b8.mp4?mediaTargetType=videoPodcast" length="1170667150" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/23f0fd8b-8ecb-46e8-b71d-aaef018463b8.mp4</guid>
+      <pubDate>Wed, 23 Oct 2019 23:34:05 GMT</pubDate>
+      <itunes:duration>6130</itunes:duration>
+    </item>
+    <item>
+      <title>15.2.2 Wed, Oct 23 2019 at 8:20 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>15.2.2 Wed, Oct 23 2019 at 8:20 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/f484eb68-5be9-4b22-9fe9-aaf00016e15d.mp4?mediaTargetType=videoPodcast" length="502143111" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/f484eb68-5be9-4b22-9fe9-aaf00016e15d.mp4</guid>
+      <pubDate>Thu, 24 Oct 2019 01:23:18 GMT</pubDate>
+      <itunes:duration>2629</itunes:duration>
+    </item>
+    <item>
+      <title>16.1 Sat, Oct 26 2019 at 10:09 AM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>16.1 Sat, Oct 26 2019 at 10:09 AM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/c2fb26fd-7235-4e66-8096-aaf200f9cf29.mp4?mediaTargetType=videoPodcast" length="2069268957" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/c2fb26fd-7235-4e66-8096-aaf200f9cf29.mp4</guid>
+      <pubDate>Sat, 26 Oct 2019 15:09:31 GMT</pubDate>
+      <itunes:duration>10831</itunes:duration>
+    </item>
+    <item>
+      <title>16.3 Mon, Oct 28 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>16.3 Mon, Oct 28 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/ce86c19b-75bd-4ba7-97d4-aaf4018463e6.mp4?mediaTargetType=videoPodcast" length="1753601151" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/ce86c19b-75bd-4ba7-97d4-aaf4018463e6.mp4</guid>
+      <pubDate>Mon, 28 Oct 2019 23:34:05 GMT</pubDate>
+      <itunes:duration>9180</itunes:duration>
+    </item>
+    <item>
+      <title>16.3 Advanced d3Wed, Oct 30 2019 at 6:33 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>16.3 Advanced d3Wed, Oct 30 2019 at 6:33 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/e2801914-374b-46bb-9e80-aaf601845c3c.mp4?mediaTargetType=videoPodcast" length="1942555764" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/e2801914-374b-46bb-9e80-aaf601845c3c.mp4</guid>
+      <pubDate>Wed, 30 Oct 2019 23:33:58 GMT</pubDate>
+      <itunes:duration>10177</itunes:duration>
+    </item>
+    <item>
+      <title>17.1 Sat, Nov 2 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>17.1 Sat, Nov 2 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/b4831452-1774-4ff6-b40b-aaf900f938f4.mp4?mediaTargetType=videoPodcast" length="1355159196" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/b4831452-1774-4ff6-b40b-aaf900f938f4.mp4</guid>
+      <pubDate>Sat, 02 Nov 2019 15:07:23 GMT</pubDate>
+      <itunes:duration>7094</itunes:duration>
+    </item>
+    <item>
+      <title>17 Homework Sat, Nov 2 2019 at 12:23 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>17 Homework Sat, Nov 2 2019 at 12:23 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/c2905ab2-f152-43fa-a4b7-aaf9011e8f76.mp4?mediaTargetType=videoPodcast" length="47623683" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/c2905ab2-f152-43fa-a4b7-aaf9011e8f76.mp4</guid>
+      <pubDate>Sat, 02 Nov 2019 17:23:20 GMT</pubDate>
+      <itunes:duration>250</itunes:duration>
+    </item>
+    <item>
+      <title>17.2 Mon, Nov 4 2019 at 6:28 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>17.2 Mon, Nov 4 2019 at 6:28 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/59da3c8f-5746-4fc1-9594-aafc0009f33f.mp4?mediaTargetType=videoPodcast" length="913826167" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/59da3c8f-5746-4fc1-9594-aafc0009f33f.mp4</guid>
+      <pubDate>Tue, 05 Nov 2019 00:36:13 GMT</pubDate>
+      <itunes:duration>4785</itunes:duration>
+    </item>
+    <item>
+      <title>17.3  PROJECT 2 Wed, Nov 6 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>17.3  PROJECT 2 Wed, Nov 6 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/d2070114-3d50-4d9b-9ccc-aafe000a2ed5.mp4?mediaTargetType=videoPodcast" length="642664059" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/d2070114-3d50-4d9b-9ccc-aafe000a2ed5.mp4</guid>
+      <pubDate>Thu, 07 Nov 2019 00:37:04 GMT</pubDate>
+      <itunes:duration>3367</itunes:duration>
+    </item>
+    <item>
+      <title>Project 2 Sat, Nov 9 2019 at 12:11 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Project 2 Sat, Nov 9 2019 at 12:11 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/dc622080-3d94-4a83-98ae-ab00012be621.mp4?mediaTargetType=videoPodcast" length="1181825745" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/dc622080-3d94-4a83-98ae-ab00012be621.mp4</guid>
+      <pubDate>Sat, 09 Nov 2019 18:11:54 GMT</pubDate>
+      <itunes:duration>6192</itunes:duration>
+    </item>
+    <item>
+      <title>20.1 Tableau Mon, Nov 25 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>20.1 Tableau Mon, Nov 25 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/789bb4a7-363d-4ec9-bfaa-ab110008c395.mp4?mediaTargetType=videoPodcast" length="1563119313" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/789bb4a7-363d-4ec9-bfaa-ab110008c395.mp4</guid>
+      <pubDate>Tue, 26 Nov 2019 00:31:54 GMT</pubDate>
+      <itunes:duration>8190</itunes:duration>
+    </item>
+    <item>
+      <title>20.2 Tableau 2 Mon, Dec 2 2019 at 6:29 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>20.2 Tableau 2 Mon, Dec 2 2019 at 6:29 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/2dc46c50-024a-4768-b65f-ab180008753d.mp4?mediaTargetType=videoPodcast" length="1614794658" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/2dc46c50-024a-4768-b65f-ab180008753d.mp4</guid>
+      <pubDate>Tue, 03 Dec 2019 00:30:47 GMT</pubDate>
+      <itunes:duration>8454</itunes:duration>
+    </item>
+    <item>
+      <title>21.1 ML Wed, Dec 4 2019 at 6:41 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>21.1 ML Wed, Dec 4 2019 at 6:41 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/9ba5e675-d29b-4dc8-9df0-ab1a000b6aaa.mp4?mediaTargetType=videoPodcast" length="1661281330" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/9ba5e675-d29b-4dc8-9df0-ab1a000b6aaa.mp4</guid>
+      <pubDate>Thu, 05 Dec 2019 00:41:34 GMT</pubDate>
+      <itunes:duration>8701</itunes:duration>
+    </item>
+    <item>
+      <title>21.2 ML Classification Sat, Dec 7 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>21.2 ML Classification Sat, Dec 7 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/f4ea3f5f-a63d-48a2-80a3-ab1c010a73b9.mp4?mediaTargetType=videoPodcast" length="1943861147" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/f4ea3f5f-a63d-48a2-80a3-ab1c010a73b9.mp4</guid>
+      <pubDate>Sat, 07 Dec 2019 16:10:07 GMT</pubDate>
+      <itunes:duration>10188</itunes:duration>
+    </item>
+    <item>
+      <title>21.3 Mon, Dec 9 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>21.3 Mon, Dec 9 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/f62ee8ff-ecd8-45c4-801d-ab1f0008cf28.mp4?mediaTargetType=videoPodcast" length="1247528831" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/f62ee8ff-ecd8-45c4-801d-ab1f0008cf28.mp4</guid>
+      <pubDate>Tue, 10 Dec 2019 00:32:04 GMT</pubDate>
+      <itunes:duration>6552</itunes:duration>
+    </item>
+    <item>
+      <title>Wed, Dec 11 2019 at 6:22 PM</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>Wed, Dec 11 2019 at 6:22 PM</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/23a22804-4e50-4969-a275-ab210009b2eb.mp4?mediaTargetType=videoPodcast" length="1653371558" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/23a22804-4e50-4969-a275-ab210009b2eb.mp4</guid>
+      <pubDate>Thu, 12 Dec 2019 00:35:19 GMT</pubDate>
+      <itunes:duration>8662</itunes:duration>
+    </item>
+    <item>
+      <title>22.2 Sat, Dec 14 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>22.2 Sat, Dec 14 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/0fbd671b-b073-4fcf-810d-ab23010aafe1.mp4?mediaTargetType=videoPodcast" length="2203452129" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/0fbd671b-b073-4fcf-810d-ab23010aafe1.mp4</guid>
+      <pubDate>Sat, 14 Dec 2019 16:10:58 GMT</pubDate>
+      <itunes:duration>11537</itunes:duration>
+    </item>
+    <item>
+      <title>18 R Mon, Dec 16 2019</title>
+      <itunes:author>benjamenalford</itunes:author>
+      <itunes:summary>18 R Mon, Dec 16 2019</itunes:summary>
+      <enclosure url="https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/8c1416ed-6d3b-4a05-954e-ab260009ef77.mp4?mediaTargetType=videoPodcast" length="1638113281" type="video/mp4" />
+      <guid>https://codingbootcamp.hosted.panopto.com/Panopto/Podcast/Syndication/8c1416ed-6d3b-4a05-954e-ab260009ef77.mp4</guid>
+      <pubDate>Tue, 17 Dec 2019 00:36:10 GMT</pubDate>
+      <itunes:duration>8574</itunes:duration>
+    </item>
+  </channel>
+</rss>
