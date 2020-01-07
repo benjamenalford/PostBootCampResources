@@ -6,7 +6,8 @@ Resources for January 2020 KU Data Analytics Bootcamp Graduates.
 
 ## Instructor Contact
 
-[Email: Benjamen Alford](mailto:benjamen.alford@gmail.com)
+- [Email: Benjamen Alford](mailto:benjamen.alford@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/benalford/)
 ---
 
 ## Class Videos
